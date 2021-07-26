@@ -1,7 +1,7 @@
 <?php
 
 // Put contacting email here
-$php_main_email = "aditya.chopra@anu.edu.au";
+$php_main_email = "user@email.com";
 
 //Fetching Values from URL
 $php_name = $_POST['ajax_name'];
