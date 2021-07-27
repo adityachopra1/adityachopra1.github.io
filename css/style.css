@@ -27,6 +27,16 @@
 /*	01) ARLO BASE
 /*---------------------------------------------------*/
 
+.icon-search {
+    height:32px;
+    width:32px;
+    border: none;
+    cursor: pointer;
+    color:white;
+    background-color:black;
+    position:relative;
+}
+
 html {
 	overflow-x: hidden;
 	padding: 0px;
