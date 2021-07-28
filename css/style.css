@@ -27,16 +27,6 @@
 /*	01) ARLO BASE
 /*---------------------------------------------------*/
 
-.icon-search {
-    height:32px;
-    width:32px;
-    border: none;
-    cursor: pointer;
-    color:white;
-    background-color:black;
-    position:relative;
-}
-
 html {
 	overflow-x: hidden;
 	padding: 0px;
@@ -1363,7 +1353,6 @@ body.modal{
 	height: auto;
 	clear: both;
 	float: left;
-	background-color: #f9f9f9;
 	padding: 140px 0px 140px 0px;
 }
 .arlo_tm_contact .contact_inner{
@@ -1495,8 +1484,8 @@ body.modal{
 	color: #fff;
 }
 .arlo_tm_copyright .social ul li .svg{
-	width: 28px;
-	height: 28px;
+	width: 18px;
+	height: 18px;
 }
 
 /*---------------------------------------------------*/
