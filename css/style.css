@@ -717,7 +717,6 @@ h6 { font-size: 16px; }
 	height: auto;
 	clear: both;
 	float: left;
-	background-color: #f9f9f9;
 	padding: 140px 0px 138px 0px;
 }
 .arlo_tm_services .service_inner{
@@ -823,6 +822,7 @@ h6 { font-size: 16px; }
 	height: auto;
 	clear: both;
 	float: left;
+	background-color: #f9f9f9;
 	margin-bottom: 100px;
 	padding-top: 141px;
 }
